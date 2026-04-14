@@ -1,1 +1,1 @@
-# Programacao2-Atv1-parte2
+Atividade / Parte 2: Aplicação terminal - com orientação a objetos
